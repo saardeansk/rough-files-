@@ -15,10 +15,10 @@ cout<<"1.give the example"<<i<<endl;
 cin>>print;
 cout<<print<<endl;
 }
-cout<<"2.give the value of a,b"s<<endl;
+cout<<"2.give the value of a,b"s<<endl ;
 cin>>a>>b;
-cout<<"the sum of a and b: "<<a+b<<endl;
-cout<<"3.give the name of person"<<endl;
+cout<<"the  sum of a and b: "<<a+b<<endl;
+cout<<"3. give the name of person"<<endl;
 cin>>name;
 cout<<name<<endl;
 cout<<"5.give the kilometers"<<endl;
@@ -50,4 +50,5 @@ int main() {
 
     return 0;
 }
+
 
