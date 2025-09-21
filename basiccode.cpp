@@ -26,7 +26,7 @@ cin>>kilo;
 int meter=kilo*1000;
 cout<<"meters"<<meter<<endl;
 int celcius;
-cout<<"give the celcius = "<<endl;
+cout<<"Give the celcius = "<<endl;
 cin>>celcius;
 float faren=(celcius*(9/5))+32;
 cout<<"fahrenhit = "<<faren<<endl;
@@ -41,14 +41,15 @@ int main() {
     cin >> a >> b;
 
     if (a > b) {
-        cout << "The largest number is: " << a << endl;
+        cout << "The Largest number is: " << a << endl;
     } else if (b > a) {
-        cout << "The largest number is: " << b << endl;
+        cout << "The Laest number is: " << b << endl;
     } else {
         cout << "Both numbers are equal." << endl;
     }
 
     return 0;
 }
+
 
 
