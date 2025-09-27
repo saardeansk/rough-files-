@@ -43,9 +43,9 @@ int main() {
     if (a > b) {
         cout << "The Largest number is: " << a << endl;
     } else if (b > a) {
-        cout << "The Laest number is: " << b << endl;
+        cout << "The Laest  number is: " << b << endl;
     } else {
-        cout << "Both numbers are equal." << endl;
+        cout << "Both numbers  are equal." << endl;
     }
 
     return 0;
