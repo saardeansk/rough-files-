@@ -17,7 +17,7 @@ cout<<print<<endl;
 }
 cout<<"2.give the value  of a,b"s<<endl ;
 cin>>a>>b;
-cout<<"the  sum of a and b: "<<a+b<<endl;
+cout<<"the  sum of a  and b: "<<a+b<<endl;
 cout<<"3. give the name of person"<<endl;
 cin>>name;
 cout<<name<<endl;
