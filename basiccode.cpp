@@ -45,7 +45,7 @@ int main() {
     } else if (b > a) {
         cout << "The  Least  number  is: " << b << endl;
     } else {
-        cout << "Both  numbers  are equal." << endl;
+        cout << "Both  numbers   are equal." << endl;
     }
 
     return 0;
