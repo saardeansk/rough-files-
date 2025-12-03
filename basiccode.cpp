@@ -11,7 +11,7 @@ string print;
 cin>>n;
 for(int i=1;i<=n;i++)
 {
-cout<<"1.give the  example"<<i<<endl;
+cout<<"1.give  the  example"<<i<<endl;
 cin>>print;
 cout<<print<<endl;
 }
