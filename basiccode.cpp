@@ -41,7 +41,7 @@ int main() {
     cin >> a >> b;
 
     if (a > b) {
-        cout << "The Largest number is: " << a << endl;
+        cout << "The  Largest number is: " << a << endl;
     } else if (b > a) {
         cout << "The  Least  number  is: " << b << endl;
     } else {
