@@ -6,7 +6,7 @@ int main()
 cout<<"the number   of   
 times"<<endl;
 int n;
-int a, b,kilo;
+int a, b,kilo; 
 string name;
 string print;
 cin>>n;
