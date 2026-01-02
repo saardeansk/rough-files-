@@ -3,7 +3,7 @@
 using namespace std;
 int main()
 {
-cout<<"the number   of  
+cout<<"the number   of   
 times"<<endl;
 int n;
 int a, b,kilo;
