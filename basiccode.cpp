@@ -8,7 +8,7 @@ times"<<endl;
 int n;
 int a, b,kilo; 
 string name;
-string print;
+string print; 
 cin>>n; 
 for(int i=1;i<=n;i++)
 {
