@@ -14,7 +14,7 @@ for(int i=1;i<=n;i++)
 {
 cout<<"1 .give  the  example"<<i<<endl;
 cin>>print; 
-cout<<print<<endl;
+cout<<print<<endl; n
 }
 cout<<"2.give the value  of a,b"s<<endl ;
 cin>>a>>b;
