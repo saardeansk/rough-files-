@@ -13,7 +13,7 @@ cin>>n;
 for(int i=1;i<=n;i++)
 {
 cout<<"1 .give  the  example"<<i<<endl;
-cin>>print;
+cin>>print; 
 cout<<print<<endl;
 }
 cout<<"2.give the value  of a,b"s<<endl ;
