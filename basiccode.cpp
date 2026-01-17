@@ -7,7 +7,7 @@ cout<<"the number   of
 times"<<endl;
 int n;
 int a, b,kilo; 
-string name;
+string name; 
 string print; 
 cin>>n; 
 for(int i=1;i<=n;i++)
