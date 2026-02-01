@@ -4,7 +4,7 @@ using namespace std;
 int main()
 { 
 cout<<"the number   of   
-times"<<endl;
+times"<<endl; 
 int n;
 int a, b,kilo;   
 string name; 
@@ -51,6 +51,7 @@ int main() {
 
     return 0;
 }
+
 
 
 
