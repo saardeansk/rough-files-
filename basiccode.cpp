@@ -2,7 +2,7 @@
 #include<string> 
 using namespace std;
 int main()
-{ 
+{      
 cout<<"the number   of     
 times"<<endl; 
 int n;
@@ -51,6 +51,7 @@ int main() {
 
     return 0;
 }
+
 
 
 
